@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="no_portals"
+version="1.0.0"
+displayName="No Portals"
+credits="https://discord.gg/NAqZFCfxYB"
+displayURL="https://discord.gg/NAqZFCfxYB"
+authors="The_WereF0X"
+
+[[dependencies.no_portals]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
